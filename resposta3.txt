@@ -1,4 +1,12 @@
 Questao: O que é versionamento de código e por que ele é essencial no
 desenvolvimento colaborativo de software?
 
-Resposta: 
+Resposta: O versionamento de código é o processo de rastrear e gerenciar alterações feitas em arquivos de um projeto. 
+
+Ele é essencial no desenvolvimento colaborativo porque:
+
+    -Permite que vários desenvolvedores trabalhem simultaneamente no mesmo projeto, evitando conflitos e perda de dados.
+
+    -Garante um histórico completo das mudanças, possibilitando reverter para versões anteriores em caso de problemas.
+    
+    -Facilita a integração de diferentes partes do código por meio de branches, que permitem testar novas funcionalidades sem impactar a versão principal do projeto.
