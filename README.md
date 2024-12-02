@@ -3,7 +3,8 @@
 Projeto que simula um site inicial com links para arquivos
 de texto contendo respostas a perguntas teóricas.
 
-##Instruções: 
+## Instruções: 
+
     Clonar o repositório com git clone https://github.com/CaioVFA/lab1PDW em qualquer diretório raiz de sua preferência.
     Abrir a pasta lab1PDW.
     Localizar o arquivo index.html.
