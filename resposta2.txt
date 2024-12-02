@@ -2,4 +2,8 @@ Questao: Cite três ferramentas ou tecnologias amplamente usadas no
 desenvolvimento web e explique como elas ajudam no processo
 de criação de aplicações web.
 
-Resposta: 
+Resposta: Frameworks Front-end (como React ou Angular): Simplificam o desenvolvimento de interfaces de usuário interativas e responsivas, permitindo a reutilização de componentes e acelerando o processo de criação.
+
+Node.js: Permite o uso de JavaScript no back-end, facilitando a construção de servidores rápidos alem de unificar o desenvolvimento front-end e back-end em uma única linguagem.
+
+Git: É uma ferramenta de controle de versão que ajuda a rastrear mudanças no código, facilitando o trabalho colaborativo e garantindo que diferentes desenvolvedores possam contribuir de forma organizada e paralelamente.
