@@ -3,4 +3,11 @@
 Projeto que simula um site inicial com links para arquivos
 de texto contendo respostas a perguntas teóricas.
 
-Instruções: Baixe o repositorio e rode o index.html cliando duas vezes com o botão esquerdo ou usando o seu navegador escolhido usando o botão direito e "abrir com" a pagina possui 5 links para as 5 questoes do lab e dentro deles estão as perguntas e suas respostas
+##Instruções: 
+    Clonar o repositório com git clone https://github.com/CaioVFA/lab1PDW em qualquer diretório raiz de sua preferência.
+    Abrir a pasta lab1PDW.
+    Localizar o arquivo index.html.
+    Clicar com o botão direito em index.html e selecionar a opção Abrir com > [Qualquer navegador de preferência]
+    Clicar com o botão esquerdo em cada link para acessar a página de cada resposta individualmente.
+
+
