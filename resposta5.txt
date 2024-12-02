@@ -3,4 +3,30 @@ de site com sua dupla. Qual seria sua abordagem inicial para
 organizar as tarefas, escolher ferramentas e implementar boas
 práticas de versionamento e desenvolvimento?
 
-Resposta: 
+Resposta: Planejamento Inicial:
+
+    Definir o objetivo, tema e requisitos principais do projeto.
+
+    Dividir as responsabilidades com base nas habilidades de cada membro da dupla.
+
+    Discutir um cronograma para fazer o codigo.
+
+Escolha de Ferramentas:
+
+    Utilizar uma ferramenta de gerenciamento de tarefas, como Trello , para organizar e acompanhar o progresso.
+
+    Adotar ferramentas de desenvolvimento como React (front-end), Node.js (back-end) e Git/GitHub para controle de versão.
+
+Implementação de Boas Práticas:
+
+    Criar um repositório Git para o projeto.
+
+    Adicionar um arquivo README.md ao repositório para documentar as instruções do projeto.
+
+    Garantir a consistência no código e utilização de branches para nao ter problema de quebrar codigo ou de ambos fazerem a mesma coisa.
+
+Comunicação e Iteração:
+
+    Estabelecer comunicação regular para revisar o progresso do trabalho.
+
+    Testar continuamente o projeto para evitar acumular problemas.
