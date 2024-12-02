@@ -1,0 +1,5 @@
+Questao: Explique o papel do JavaScript no desenvolvimento web moderno.
+Por que ele é considerado uma linguagem essencial para a
+criação de sites interativos?
+
+Resposta: 

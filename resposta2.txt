@@ -1,0 +1,5 @@
+Questao: Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+Resposta: 
