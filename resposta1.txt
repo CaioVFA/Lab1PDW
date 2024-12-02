@@ -3,4 +3,9 @@ Web no contexto da evolução da internet. Como essas tecnologias
 mudaram a forma como a informação é compartilhada
 globalmente?
 
-Resposta: 
+Resposta: Um dos primeiros grandes componentes foram os navegadores, como por exemplo o Nexus onde pesquisadores podiam procurar, ler e postar informação sobre pesquisars, dados e etc.
+O HTML possibilitou a criação de páginas web com texto formatado, imagens e links interativos, permitindo uma experiência visual e intuitiva. 
+Com a World Wide Web, criada por Tim Berners-Lee, foi introduzido um sistema de hipertexto que facilitou o compartilhamento e a navegação por informações 
+interconectadas. Isso democratizou o acesso ao conhecimento, permitindo que pessoas e organizações ao redor do mundo publicassem e consumissem conteúdo de forma 
+prática e universal. Os sites eram simples de fazer pois HTML é uma linguagem de marcação e não de programação, sendo assim nao era necessario saber programar para fazer uma pagina web.
+
