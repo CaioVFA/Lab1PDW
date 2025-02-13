@@ -6,4 +6,4 @@ Resposta: Frameworks Front-end (como React ou Angular): Simplificam o desenvolvi
 
 Node.js: Permite o uso de JavaScript no back-end, facilitando a construção de servidores rápidos alem de unificar o desenvolvimento front-end e back-end em uma única linguagem.
 
-Git: É uma ferramenta de controle de versão que ajuda a rastrear mudanças no código, facilitando o trabalho colaborativo e garantindo que diferentes desenvolvedores possam contribuir de forma organizada e paralelamente.
+Git: É uma ferramenta de controle de versão que ajuda a rastrear mudanças no código, facilitando o trabalho colaborativo e garantindo que diferentes desenvolvedores possam contribuir de forma organizaddfgdgfa e paralelamente.dsfgsdgdsgdgdf
